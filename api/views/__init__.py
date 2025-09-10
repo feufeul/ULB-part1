@@ -1,0 +1,3 @@
+from .liste_cours_views import ListeCoursViewSet
+from .liste_inscriptions_views import ListeInscriptionsViewSet
+from .liste_notes_views import ListeNotesViewSet
